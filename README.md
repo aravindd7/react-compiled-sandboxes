@@ -23,8 +23,8 @@ Compiled list of useful react sandboxes
 <!--Tasks-->
 
 # Tasks: 
-* [] Add More Sandboxes
-* [] Checkout Stackblitz sandboxes
-* [] Create Branches with difficulty levels
+* [ ] Add More Sandboxes
+* [ ] Checkout Stackblitz sandboxes
+* [ ] Create Branches with difficulty levels
 
 # Master Branch: Introductory
