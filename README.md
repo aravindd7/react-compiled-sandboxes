@@ -20,7 +20,10 @@ Compiled list of useful react sandboxes
   * [React Basic Components](https://github.com/stars/aravindd7/lists/react-learning)
 * # Summaries/Cheatsheets
   * [React](https://github.com/aravindd7/react-compiled-sandboxes/blob/intermediate/assets/ReactCheatSheet1.png)
-  * [Javascript]()
+  * [Javascript](https://github.com/aravindd7/react-compiled-sandboxes/blob/master/assets/ES6%20CheatSheet.png)
+  * [Html Tags](https://github.com/aravindd7/react-compiled-sandboxes/blob/master/assets/html5_tags.png)
+  * [Html Events](https://github.com/aravindd7/react-compiled-sandboxes/blob/master/assets/html5_event.png)
+  * [CSS3](https://github.com/aravindd7/react-compiled-sandboxes/blob/master/assets/css3-cheatsheet.png)
 <!--Tasks-->
 
 # Tasks: 
