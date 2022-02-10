@@ -36,4 +36,4 @@ Compiled list of useful react sandboxes
 * [ ] Checkout Stackblitz sandboxes
 * [ ] Create Branches with difficulty levels
 
-# Master Branch: Introductory
+# Intermediate Branch: Intermediate
