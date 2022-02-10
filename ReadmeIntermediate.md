@@ -16,13 +16,12 @@ Compiled list of useful react sandboxes
   * [Hooks #2](https://codesandbox.io/s/advanced-react-hooks-grf7o)
 * # TypeScript Github Repositories
   * [Typescript-handbook](https://github.com/aravindd7/TypeScript-Handbook)
-  * []()
-  * []()
-  * []()
+  * [Typescript Demos](https://github.com/aravindd7/TypeScriptDemos)
 * # GitHub Lists
-  * []()
-  * []()
-
+  * [React Advanced Projects in Typescript](https://github.com/stars/aravindd7/lists/react-advanced-projects)
+  * [React Advanced Basic Components](https://github.com/stars/aravindd7/lists/react-learning-advanced)
+* # Summaries/CheatSheets
+  * 
 
 <!--Tasks-->
 
